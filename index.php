@@ -8,3 +8,6 @@ $index = 6;
 
 //added comment
 $index = 5;
+
+//added comment
+$index = 4;

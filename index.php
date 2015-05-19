@@ -9,3 +9,14 @@ demo-work-1
 3
 
 4
+//added comment
+$index = 7;
+
+//added comment
+$index = 6;
+
+//added comment
+$index = 5;
+
+//added comment
+$index = 4;

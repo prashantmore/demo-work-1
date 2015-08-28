@@ -24,3 +24,6 @@ $index = 4;
 
 //added comment
 $index = 3;
+
+//added comment
+$index = 2;

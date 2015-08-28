@@ -27,3 +27,5 @@ $index = 3;
 
 //added comment
 $index = 2;
+
+$index = 1;
